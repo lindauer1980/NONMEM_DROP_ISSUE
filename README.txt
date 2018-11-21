@@ -20,4 +20,4 @@ Included in this repository are 4 model files,
 #1, #3 and #4 give the same OFV, while #2 results in a 220 units higher OFV
 
 
-The dataset contain made up data and has no link to real measurements.
+The datasets contain made up data and has no link to real measurements.
